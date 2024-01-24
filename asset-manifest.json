@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.8022848b.css",
+    "main.js": "/my-portfolio/static/js/main.3397dcc3.js",
+    "static/media/space.png": "/my-portfolio/static/media/space.66f6c02a7de912c0706c.png",
+    "static/media/color-sharp.png": "/my-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/my-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/todo.png": "/my-portfolio/static/media/todo.e84dd3748c9d295cd9a0.png",
+    "static/media/header-img.svg": "/my-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/shopcart.png": "/my-portfolio/static/media/shopcart.9809431a90ffefc99a14.png",
+    "static/media/contact-img.svg": "/my-portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/my-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/my-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/my-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/leetcode.svg": "/my-portfolio/static/media/leetcode.dc88b3eb2666041b4b5f494b46ad380a.svg",
+    "static/media/githubicon.svg": "/my-portfolio/static/media/githubicon.269479c2b1ef36c0095d547e0177ae9f.svg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/nav-icon1.svg": "/my-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.8022848b.css.map": "/my-portfolio/static/css/main.8022848b.css.map",
+    "main.3397dcc3.js.map": "/my-portfolio/static/js/main.3397dcc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8022848b.css",
+    "static/js/main.3397dcc3.js"
+  ]
+}
